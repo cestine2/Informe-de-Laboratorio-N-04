@@ -1,0 +1,693 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.10.9)  13 DEC 2019 15:04
+entering extended mode
+**"./Trabajo Encargado Nro 02.tex"
+("Trabajo Encargado Nro 02.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
+f"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spa
+nish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
+def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.
+sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex
+.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks18
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks19
+\float@box=\box27
+\@float@everytoks=\toks20
+\@floatcapt=\box28
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen114
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks22
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks23
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks24
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\stackrel
+.sty"
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow
+.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count107
+\multirow@dima=\skip47
+\bigstrutjot=\dimen123
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.s
+ty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+) ("Trabajo Encargado Nro 02.aux"
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Actividad01.aux))
+\openout1 = `"Trabajo Encargado Nro 02.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen124
+\scratchbox=\box31
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen125
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks28
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./Imagenes/logo.jpg, id=1, 276.03125pt x 183.68625pt>
+File: ./Imagenes/logo.jpg Graphic file (type jpg)
+<use ./Imagenes/logo.jpg>
+Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 227.62204pt x 151.47853pt.
+
+! Package inputenc Error: Unicode character ° (U+00B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \textbf{Informe Laboratorio N° 04}
+                                         \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[1
+
+{C:/Users/EDWARD/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagenes
+/logo.jpg>]
+\openout2 = `Secciones/Actividad01.aux'.
+
+ (Secciones/Actividad01.tex
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode character ° (U+00B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \textbf{PRACTICA DE LABORATORIO N° 04:}
+                                              \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ✓ (U+2713)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...de los siguientes conocimientos básicos:}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \item{
+           - Conocimientos básicos de administración de base de datos Micr...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package inputenc Error: Unicode character ✓ (U+2713)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...o se necesita los siguientes aplicativos:}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
+
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \item{
+           Generar todos los modelos fisicos de los diagramas entidad relaci...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package inputenc Error: Unicode character ° (U+00B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \textbf{Ejercicio N° 01: Envíos}
+                                        \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \item{
+           El siguiente diagrama E / R simplificado describe el envío de me...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./Imagenes/1.png, id=8, 469.755pt x 300.3722pt>
+File: ./Imagenes/1.png Graphic file (type png)
+<use ./Imagenes/1.png>
+Package pdftex.def Info: ./Imagenes/1.png  used on input line 42.
+(pdftex.def)             Requested size: 341.43306pt x 218.32112pt.
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \item{
+           Supongamos que los costos de los atributos ya incluyen todas las ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[1
+
+ <./Imagenes/1.png>]
+<./Imagenes/11.png, id=14, 309.40594pt x 378.66469pt>
+File: ./Imagenes/11.png Graphic file (type png)
+<use ./Imagenes/11.png>
+Package pdftex.def Info: ./Imagenes/11.png  used on input line 48.
+(pdftex.def)             Requested size: 341.43306pt x 417.89603pt.
+<./Imagenes/12.png, id=15, 231.86626pt x 354.57469pt>
+File: ./Imagenes/12.png Graphic file (type png)
+<use ./Imagenes/12.png>
+Package pdftex.def Info: ./Imagenes/12.png  used on input line 52.
+(pdftex.def)             Requested size: 341.43306pt x 522.17076pt.
+ [2 <./Imagenes/11.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \textbf
+            {Modelo Dimensional}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./Imagenes/14.png, id=20, 246.9225pt x 392.96812pt>
+File: ./Imagenes/14.png Graphic file (type png)
+<use ./Imagenes/14.png>
+Package pdftex.def Info: ./Imagenes/14.png  used on input line 57.
+(pdftex.def)             Requested size: 341.43306pt x 543.41187pt.
+[3 <./Imagenes/12.png>]
+<./Imagenes/15.png, id=25, 243.91125pt x 333.49594pt>
+File: ./Imagenes/15.png Graphic file (type png)
+<use ./Imagenes/15.png>
+Package pdftex.def Info: ./Imagenes/15.png  used on input line 61.
+(pdftex.def)             Requested size: 341.43306pt x 466.84024pt.
+ [4 <./Imagenes/14.png>] [5 <./Imagenes/15.png>]
+
+! Package inputenc Error: Unicode character ° (U+00B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \textbf{Ejercicio N° 02: Reservas de viaje}
+                                                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \item{
+           En este esquema de E / R, un cliente (que es de cierto tipo) rese...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./Imagenes/2.png, id=34, 514.17094pt x 331.99031pt>
+File: ./Imagenes/2.png Graphic file (type png)
+<use ./Imagenes/2.png>
+Package pdftex.def Info: ./Imagenes/2.png  used on input line 70.
+(pdftex.def)             Requested size: 341.43306pt x 220.46176pt.
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \item{
+           Por favor identifique el hecho de interés y construya el Modelo ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./Imagenes/reservacodigo.png, id=35, 272.51813pt x 603.75563pt>
+File: ./Imagenes/reservacodigo.png Graphic file (type png)
+<use ./Imagenes/reservacodigo.png>
+Package pdftex.def Info: ./Imagenes/reservacodigo.png  used on input line 75.
+(pdftex.def)             Requested size: 199.16928pt x 441.25385pt.
+[6 <./Imagenes/2.png>]
+<./Imagenes/24.png, id=41, 242.40562pt x 340.27126pt>
+File: ./Imagenes/24.png Graphic file (type png)
+<use ./Imagenes/24.png>
+Package pdftex.def Info: ./Imagenes/24.png  used on input line 80.
+(pdftex.def)             Requested size: 199.16928pt x 279.59535pt.
+ [7 <./Imagenes/reservacodigo.png>]
+<./Imagenes/25.png, id=46, 271.76532pt x 194.97844pt>
+File: ./Imagenes/25.png Graphic file (type png)
+<use ./Imagenes/25.png>
+Package pdftex.def Info: ./Imagenes/25.png  used on input line 83.
+(pdftex.def)             Requested size: 199.16928pt x 142.9013pt.
+
+
+! Package inputenc Error: Unicode character ° (U+00B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...f{Ejercicio N° 03: Gestión de proyectos}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 \item{
+           Este esquema E / R simplificado muestra un caso gestión del proy...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./Imagenes/3.png, id=47, 514.17094pt x 371.88937pt>
+File: ./Imagenes/3.png Graphic file (type png)
+<use ./Imagenes/3.png>
+Package pdftex.def Info: ./Imagenes/3.png  used on input line 93.
+(pdftex.def)             Requested size: 341.43306pt x 246.95717pt.
+[8 <./Imagenes/24.png> <./Imagenes/25.png>]
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 \item{
+           Por favor identifique el hecho de interés y construya el Modelo ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./Imagenes/31.png, id=53, 225.09094pt x 332.74312pt>
+File: ./Imagenes/31.png Graphic file (type png)
+<use ./Imagenes/31.png>
+Package pdftex.def Info: ./Imagenes/31.png  used on input line 98.
+(pdftex.def)             Requested size: 199.16928pt x 294.43956pt.
+<./Imagenes/32.png, id=54, 252.19218pt x 262.73157pt>
+File: ./Imagenes/32.png Graphic file (type png)
+<use ./Imagenes/32.png>
+Package pdftex.def Info: ./Imagenes/32.png  used on input line 102.
+(pdftex.def)             Requested size: 199.16928pt x 207.49551pt.
+[9 <./Imagenes/3.png> <./Imagenes/31.png>]
+<./Imagenes/33.png, id=60, 226.59656pt x 336.50719pt>
+File: ./Imagenes/33.png Graphic file (type png)
+<use ./Imagenes/33.png>
+Package pdftex.def Info: ./Imagenes/33.png  used on input line 107.
+(pdftex.def)             Requested size: 199.16928pt x 295.77806pt.
+<./Imagenes/34.png, id=61, 238.64156pt x 164.11313pt>
+File: ./Imagenes/34.png Graphic file (type png)
+<use ./Imagenes/34.png>
+Package pdftex.def Info: ./Imagenes/34.png  used on input line 111.
+(pdftex.def)             Requested size: 199.16928pt x 136.9676pt.
+ [10 <./Imagenes/32.png> <./Imagenes/33.png> <./Imagenes/34.png>] ("Trabajo Enc
+argado Nro 02.aux"
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+
+(Secciones/Actividad01.aux)) ) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 18 (\begingroup)
+### bottom level
+(\end occurred when \iftrue on line 89 was incomplete)
+(\end occurred when \ifnum on line 89 was incomplete) 
+Here is how much of TeX's memory you used:
+ 3708 strings out of 492895
+ 53517 string characters out of 3123268
+ 136353 words of memory out of 3000000
+ 7551 multiletter control sequences out of 15000+200000
+ 5456 words of font info for 20 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,5n,31p,400b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/EDWARD/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ED
+WARD/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+>
+Output written on "Trabajo Encargado Nro 02.pdf" (11 pages, 434579 bytes).
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
